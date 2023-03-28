@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjYBvYhb1jcsxvUN6ZZO1VWZ0w_C1R2XrpOQ&usqp=CAU" width="1000" height="200" />
+    <img alt="Vue logo" class="logo" src="./assets/muhfarian.png" height="50" />
 
 
     <div class="wrapper">
